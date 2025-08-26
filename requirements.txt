@@ -1,0 +1,12 @@
+requests~=2.32.5
+SQLAlchemy~=2.0.43
+uvicorn[standard]
+python-jose~=3.5.0
+passlib~=1.7.4
+fastapi~=0.116.1
+pydantic~=2.11.7
+alembic~=1.16.4
+psycopg[binary]
+psycopg2-binary
+python-multipart~=0.0.9
+bcrypt~=4.1.2
